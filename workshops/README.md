@@ -19,28 +19,20 @@ You'll learn:
 
 ## Notebooks
 
-Complete the notebooks **in order**:
+Complete the appropriate notebook for your language:
 
-### 1. [01_CHSH_Bell_Inequality.ipynb](01_CHSH_Bell_Inequality.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/01_CHSH_Bell_Inequality.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/01_CHSH_Bell_Inequality_fr.ipynb)
-**Learn the fundamentals of quantum entanglement**
+### [E91_Full_Workshop_en.ipynb](E91_Full_Workshop_en.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/E91_Full_Workshop_en.ipynb)
+**English Version**
 
-- Create Bell pairs (entangled qubit pairs)
-- Understand measurement bases
-- Implement the CHSH Bell inequality test
-- Verify quantum correlations exceed classical limits
+### [E91_Full_Workshop_fr.ipynb](E91_Full_Workshop_fr.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/E91_Full_Workshop_fr.ipynb)
+**Version Française**
 
-~45 minutes
+These notebooks combine the entire curriculum into a single flow:
+1. **Understanding Entanglement (CHSH)** - Learn measurement bases and test quantum correlations against classical limits.
+2. **Key Distribution (E91)** - Build a complete QKD system and detect eavesdropping attempts.
+3. **Coding Challenge** - Take-home assignment to test your understanding using a different Bell state.
 
-### 2. [02_E91_Protocol.ipynb](02_E91_Protocol.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/02_E91_Protocol.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/02_E91_Protocol_fr.ipynb)
-**Build a complete quantum key distribution system**
-
-- Use your functions from Notebook 1 (automatically imported!)
-- Implement the E91 protocol
-- Generate a shared secret key
-- Detect eavesdropping attempts
-- Decrypt secret messages
-
-~45 minutes
+~3 hours total
 
 ---
 

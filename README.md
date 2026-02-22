@@ -11,29 +11,20 @@ This repository contains materials for teaching the E91 quantum key distribution
 ```text
 CMAI-E91/
 ├── slides/                    # Presentation slides (1h30 theory) — coming soon
-│
 ├── workshops/                 # Hands-on notebooks (1h30 guided)
 │   ├── utils/                 # Shared helper code
-│   ├── 01_CHSH_Bell_Inequality.ipynb
-│   └── 02_E91_Protocol.ipynb
-│
+│   ├── E91_Full_Workshop_en.ipynb   # English Unified Workshop
+│   └── E91_Full_Workshop_fr.ipynb   # French Unified Workshop
 ├── assignment/                # Take-home assignment (Deadline: 24h)
-│   ├── E91_Assignment_coding.ipynb
-│   ├── E91_Assignment_coding_fr.ipynb
 │   ├── assignment_encrypted_messages.txt
 │   └── README.md
 ```
 
 ## Quick Links (Google Colab)
 
-Launch the notebooks directly in Google Colab (no local installation required):
+Launch the unified workshop notebook directly in Google Colab (no local installation required):
 
-### Workshops (Guided)
-- **01. CHSH Bell Inequality:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/01_CHSH_Bell_Inequality.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/01_CHSH_Bell_Inequality_fr.ipynb)
-- **02. E91 Protocol:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/02_E91_Protocol.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/02_E91_Protocol_fr.ipynb)
-
-### Assignment
-- **E91 Coding Challenge:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/assignment/E91_Assignment_coding.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/assignment/E91_Assignment_coding_fr.ipynb)
+- **E91 Full Workshop:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/E91_Full_Workshop_en.ipynb) | [Français](https://colab.research.google.com/github/algolab-quantique/CMAI-E91-Students/blob/main/workshops/E91_Full_Workshop_fr.ipynb)
 
 ---
 
